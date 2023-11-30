@@ -1,0 +1,6 @@
+Lo script può essere scaricato dal seguente link
+
+https://github.com/mdic/tm2024/blob/main/create_youtube_corpus.ipynb
+
+cliccando sull'icona "Download" in alto a destra.
+Purtroppo Teams non permette di caricare script in Python...
